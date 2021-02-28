@@ -1,11 +1,11 @@
 theme: jekyll-theme-slate
 name: "cars"
-output_dir: "docs"
+output_dir: "/"
 navbar:
   title: "Cars"
   left:
   - text: "Home"
-   href: index.html
+   href:speed-and-cars.html
   - text: "Speed and Distance"
    href: speed-and-cars.html
 output:
