@@ -5,7 +5,7 @@ navbar:
   title: "Cars"
   left:
   - text: "Home"
-   href:speed-and-cars.html
+   href: speed-and-cars.html
   - text: "Speed and Distance"
    href: speed-and-cars.html
 output:
